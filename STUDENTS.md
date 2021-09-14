@@ -1,9 +1,9 @@
 # Section 010
 
-## Project Group 1
+## Project Group 6
 
-   * UW ID
-   * UW ID
+   * Pravaklik Pidikiti
+   
 
 ## Project Group 2
 

@@ -11,6 +11,8 @@
    * UW ID
 
 ## Project Group 2
+## Project Group 7
+   * CorneliaChu
 
 # Section 011
 

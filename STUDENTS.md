@@ -12,6 +12,10 @@
 
 ## Project Group 2
 
+## Project Group 6
+   * Cpimentel
+
+
 # Section 011
 
 ## Project Group 1

@@ -1,5 +1,10 @@
 # Section 010
 
+## Course Staff
+
+   * emanzoor
+   * ygao328
+
 ## Project Group 1
 
    * UW ID

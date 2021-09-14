@@ -3,7 +3,6 @@
 ## Project Group 1
 
    * htran7
-   * test
 
 ## Project Group 2
 

@@ -8,7 +8,7 @@
 ## Project Group 2
 
 ## Project Group 3
-	*UW ID Nicole Monarrez 9067871567
+	*UW ID Nicole Monarrez
 
 # Section 011
 

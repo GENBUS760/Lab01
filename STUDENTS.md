@@ -7,8 +7,7 @@
 
 ## Project Group 1
 
-   * UW ID
-   * UW ID
+   * htran7
 
 ## Project Group 2
 

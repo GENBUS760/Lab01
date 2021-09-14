@@ -9,10 +9,7 @@
 
 ## Project Group 5
 
-   * yxiao224
-   * 
    * machannagari
-   * jwu568
 
 # Section 011
 

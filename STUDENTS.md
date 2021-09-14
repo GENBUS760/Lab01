@@ -10,6 +10,7 @@
 ## Project Group 4
    
    * Duc Le
+   	* dale5@wisc.edu
 
 # Section 011
 

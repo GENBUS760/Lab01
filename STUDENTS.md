@@ -7,8 +7,7 @@
 
 ## Project Group 1
 
-   * UW ID
-   * UW ID
+   * xwang2585@wisc.edu
 
 ## Project Group 2
 

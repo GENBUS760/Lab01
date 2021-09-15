@@ -1,4 +1,4 @@
-# Section 010
+c# Section 010
 
 ## Course Staff
 
@@ -17,3 +17,7 @@
 ## Project Group 1
 
 ## Project Group 2
+
+
+## Project Group 8
+   * Name:Ruiyu Min, UW ID: 9082563793, Email: rmin7@wisc.edu

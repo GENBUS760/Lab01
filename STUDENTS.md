@@ -7,7 +7,7 @@
 
 ## Project Group 1
 
-   * UW ID
+   * mchen389
    * UW ID
 
 ## Project Group 2

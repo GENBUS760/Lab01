@@ -5,9 +5,9 @@
    * emanzoor
    * ygao328
 
-## Project Group 1
+## Project Group 6
 
-   * UW ID
+   Yunfan(yzhang2552)
    * UW ID
 
 ## Project Group 2

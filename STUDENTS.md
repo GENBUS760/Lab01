@@ -12,6 +12,10 @@
 
 ## Project Group 2
 
+## Project Group 7
+
+   * Yiming Sui
+
 # Section 011
 
 ## Project Group 1

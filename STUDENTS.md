@@ -20,4 +20,4 @@ c# Section 010
 
 
 ## Project Group 8
-   * Name:Ruiyu Min, UW ID: 9082563793, Email: rmin7@wisc.edu
+   * rmin7

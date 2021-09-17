@@ -6,8 +6,8 @@
    * UW ID
 
 ## Project Group 2
-   * UW ID Xinyuan Zhang!!!!!!!! 
-   * UW ID
+   * UW ID 
+   * UW ID Xinyuan Zhang xzhang2554@wisc.edu 
 
 # Section 011
 

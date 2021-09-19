@@ -7,7 +7,7 @@
 
 ## Project Group 1
 
-   * esonkin / Lab01
+   * UW ID
    * UW ID
 
 ## Project Group 2

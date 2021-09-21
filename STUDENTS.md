@@ -8,6 +8,7 @@
 ## Project Group 2
 
    * Samhitha Kasireddy
+   * Full Name: Sree Veda Samhitha Kasireddy
 
 # Section 011
 

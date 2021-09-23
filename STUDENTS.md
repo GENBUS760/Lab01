@@ -7,13 +7,11 @@
 
 ## Project Group 1
 
-   * UW ID
-   * UW ID
+  
+   * lbutson
+   lbutson@wisc.edu
 
 ## Project Group 2
 
-# Section 011
-
-## Project Group 1
-
+# Section 0
 ## Project Group 2

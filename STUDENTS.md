@@ -5,15 +5,8 @@
    * emanzoor
    * ygao328
 
-## Project Group 1
+## Project Group 3
 
-   * UW ID
-   * UW ID
+   * 9082781056
+   * Gladis Gee
 
-## Project Group 2
-
-# Section 011
-
-## Project Group 1
-
-## Project Group 2

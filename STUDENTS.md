@@ -20,4 +20,4 @@ c# Section 010
 
 
 ## Project Group 8
-   * rmin7
+   * My wisc ID: rmin7

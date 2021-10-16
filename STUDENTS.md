@@ -7,8 +7,8 @@
 
 ## Project Group 1
 
-   * UW ID
-   * UW ID
+   * UW 9083760224
+   * Kun Li
 
 ## Project Group 2
 
@@ -17,3 +17,4 @@
 ## Project Group 1
 
 ## Project Group 2
+Kun Li

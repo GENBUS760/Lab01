@@ -8,6 +8,7 @@
 ## Project Group 1
 
    * UW 9083760224
+   * Kun Li
 
 ## Project Group 2
 

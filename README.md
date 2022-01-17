@@ -1,4 +1,4 @@
-# Lab01
+# Lab01 How To Set Up on Virtual Machine
 Git & Github Workflow
 Initial Setup
 git config --global user.name "Your Name"
